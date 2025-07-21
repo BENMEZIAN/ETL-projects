@@ -31,8 +31,6 @@ Un fichier covid_data.csv contenant les données COVID triées et prêtes à êt
 
 ---
 
-## 🛍️ Projet 2 : Scraping de livres e-commerce
-
 ```
 # 📚 Projet Web Scraping – Données de livres depuis un site e-commerce
 
